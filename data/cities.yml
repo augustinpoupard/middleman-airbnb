@@ -1,0 +1,15 @@
+- name: Berlin
+  address: "Rudi-Dutschke-Straße 26, 10969 Berlin"
+  picture: "images/download.jpg"
+  type: "appartement"
+  url:
+
+- name: Paris
+  address: "16, villa Gaudelet 75011 Paris"
+  picture: "images/paris.jpg"
+  type: "maison"
+
+- name: Shanghai
+  address: "145, lilonshi shsb shanghai"
+  picture: "images/shangai.jpg"
+  type: "appartement"
